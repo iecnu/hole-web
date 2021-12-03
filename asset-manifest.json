@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/thuhole/webhole@gh-pages-master/static/css/main.aeebf8fe.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/thuhole/webhole@gh-pages-master/static/js/main.71c9c0d1.chunk.js",
-    "main.js.map": "https://cdn.jsdelivr.net/gh/thuhole/webhole@gh-pages-master/static/js/main.71c9c0d1.chunk.js.map",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/thuhole/webhole@gh-pages-master/static/js/runtime-main.4687ccd5.js",
-    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/thuhole/webhole@gh-pages-master/static/js/runtime-main.4687ccd5.js.map",
-    "static/css/2.f2d92645.chunk.css": "https://cdn.jsdelivr.net/gh/thuhole/webhole@gh-pages-master/static/css/2.f2d92645.chunk.css",
-    "static/js/2.7f8afa11.chunk.js": "https://cdn.jsdelivr.net/gh/thuhole/webhole@gh-pages-master/static/js/2.7f8afa11.chunk.js",
-    "static/js/2.7f8afa11.chunk.js.map": "https://cdn.jsdelivr.net/gh/thuhole/webhole@gh-pages-master/static/js/2.7f8afa11.chunk.js.map",
+    "main.css": "https://cdn.jsdelivr.net/gh/iecnu/hole-web@gh-pages-master/static/css/main.f70f5a9a.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/iecnu/hole-web@gh-pages-master/static/js/main.70e5556c.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/iecnu/hole-web@gh-pages-master/static/js/main.70e5556c.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/iecnu/hole-web@gh-pages-master/static/js/runtime-main.2d5f1d7c.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/iecnu/hole-web@gh-pages-master/static/js/runtime-main.2d5f1d7c.js.map",
+    "static/css/2.c97991bb.chunk.css": "https://cdn.jsdelivr.net/gh/iecnu/hole-web@gh-pages-master/static/css/2.c97991bb.chunk.css",
+    "static/js/2.3ba3e87f.chunk.js": "https://cdn.jsdelivr.net/gh/iecnu/hole-web@gh-pages-master/static/js/2.3ba3e87f.chunk.js",
+    "static/js/2.3ba3e87f.chunk.js.map": "https://cdn.jsdelivr.net/gh/iecnu/hole-web@gh-pages-master/static/js/2.3ba3e87f.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.fa6b8422adcf064189ef50376fb254b3.js": "https://cdn.jsdelivr.net/gh/thuhole/webhole@gh-pages-master/precache-manifest.fa6b8422adcf064189ef50376fb254b3.js",
+    "precache-manifest.3f685bfb9f40be75f6cb79cf96b796fd.js": "https://cdn.jsdelivr.net/gh/iecnu/hole-web@gh-pages-master/precache-manifest.3f685bfb9f40be75f6cb79cf96b796fd.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/2.f2d92645.chunk.css.map": "https://cdn.jsdelivr.net/gh/thuhole/webhole@gh-pages-master/static/css/2.f2d92645.chunk.css.map",
-    "static/css/main.aeebf8fe.chunk.css.map": "https://cdn.jsdelivr.net/gh/thuhole/webhole@gh-pages-master/static/css/main.aeebf8fe.chunk.css.map",
-    "static/js/2.7f8afa11.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/thuhole/webhole@gh-pages-master/static/js/2.7f8afa11.chunk.js.LICENSE.txt",
-    "static/media/katex.min.css": "https://cdn.jsdelivr.net/gh/thuhole/webhole@gh-pages-master/static/media/KaTeX_Typewriter-Regular.b2e94149.eot"
+    "static/css/2.c97991bb.chunk.css.map": "https://cdn.jsdelivr.net/gh/iecnu/hole-web@gh-pages-master/static/css/2.c97991bb.chunk.css.map",
+    "static/css/main.f70f5a9a.chunk.css.map": "https://cdn.jsdelivr.net/gh/iecnu/hole-web@gh-pages-master/static/css/main.f70f5a9a.chunk.css.map",
+    "static/js/2.3ba3e87f.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/iecnu/hole-web@gh-pages-master/static/js/2.3ba3e87f.chunk.js.LICENSE.txt",
+    "static/media/katex.min.css": "https://cdn.jsdelivr.net/gh/iecnu/hole-web@gh-pages-master/static/media/KaTeX_Typewriter-Regular.b2e94149.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.4687ccd5.js",
-    "static/css/2.f2d92645.chunk.css",
-    "static/js/2.7f8afa11.chunk.js",
-    "static/css/main.aeebf8fe.chunk.css",
-    "static/js/main.71c9c0d1.chunk.js"
+    "static/js/runtime-main.2d5f1d7c.js",
+    "static/css/2.c97991bb.chunk.css",
+    "static/js/2.3ba3e87f.chunk.js",
+    "static/css/main.f70f5a9a.chunk.css",
+    "static/js/main.70e5556c.chunk.js"
   ]
 }
